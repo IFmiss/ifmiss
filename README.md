@@ -1,6 +1,5 @@
 ### Hi there, I'm [DW!](https://daiwei.site) 👋
-一名前端开发菜🐔工程师
-
+A front-end development engineer 
 
 <!--
 ![my github stats](https://github-readme-stats.vercel.app/api?username=ifmiss&show_icons=true&hide_border=true&theme=radical,prs)
