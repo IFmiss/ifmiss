@@ -2,12 +2,6 @@
 
 A front-end development engineer 
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ifmiss&show_icons=true&theme=radical" alt="Dw's github stats" />
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ifmiss&layout=compact" alt="Dw's github stats" /> -->
-
-<!--
-**IFmiss/ifmiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
