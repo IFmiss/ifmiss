@@ -1,7 +1,4 @@
-### Hi, I'm [DW!](https://daiwei.site) 👋
-
-A front-end development engineer 
-
+<a href="www.daiwei.site/blog">blog</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://daiwei.site/static/resume/%E6%88%B4%E4%BC%9F-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88.pdf">resume</a>
 
 <!-- Here are some ideas to get you started:
 
